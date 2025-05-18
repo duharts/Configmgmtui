@@ -1,15 +1,15 @@
-﻿# Configuration Management UI
+# Configuration Management UI
 
 A Streamlit-based web interface for managing configuration settings of the Agentic Testing Platform.
 
 ## Features
 
-- 🔵 Azure Configuration
-- 🧠 AI Models Setup
-- 💾 Storage & Database Configuration
-- 📊 Monitoring Setup
-- 🛡️ Security Settings
-- 🚀 Deployment Configuration
+- Azure Configuration
+- AI Models Setup
+- Storage & Database Configuration
+- Monitoring Setup
+- Security Settings
+- Deployment Configuration
 
 ## Installation
 
